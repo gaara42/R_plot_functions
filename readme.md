@@ -56,6 +56,7 @@ Go to your personal LaTeX projects directory (or wherever) and clone the reposit
 
 ### What's New
 
+* Cleaned up PCA function and added description of inputs (2013.01.10)
 * Added to GitHub (2013.01.10)
 
 ### In Development
