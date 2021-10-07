@@ -65,8 +65,8 @@ Go to your personal LaTeX projects directory (or wherever) and clone the reposit
 * Codes for: box, bar, scatter, line, density and other types of common plots.
 * More examples!
 
-##License
+## License
 
-Biafra Ahanonu <bahanonu@gmail.com>
+Biafra Ahanonu
 
 This program is free software: you can redistribute it and/or modify it under the terms of the [GNU](http://www.gnu.org/licenses/gpl.html). Attribution is appreciated, but not required, if parts of the software are used elsewhere.
